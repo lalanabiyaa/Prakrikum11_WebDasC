@@ -1,0 +1,20 @@
+[
+  {
+    "image": "espresso.jpg",
+    "name": "Espresso",
+    "description": "Kopi pekat dengan rasa kuat dan aroma khas.",
+    "price": "Rp 18.000"
+  },
+  {
+    "image": "cappuccino.jpg",
+    "name": "Cappuccino",
+    "description": "Perpaduan espresso, susu, dan foam.",
+    "price": "Rp 22.000"
+  },
+  {
+    "image": "latte.jpg",
+    "name": "Latte",
+    "description": "Espresso dengan lebih banyak susu, rasa lebih ringan.",
+    "price": "Rp 23.000"
+  }
+]
