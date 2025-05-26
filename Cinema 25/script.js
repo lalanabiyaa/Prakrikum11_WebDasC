@@ -12,7 +12,7 @@ document.getElementById('see-movies').addEventListener('click', function () {
         card.innerHTML = `
           <img src="${movie.img}" alt="${movie.title}" />
           <h2>${movie.title}</h2>
-          <p>${movie.genre}</p>
+          <p> Genre : ${movie.genre}</p>
         `;
 
         container.appendChild(card);
